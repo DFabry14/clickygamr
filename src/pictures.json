@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/0/02/2x03_Gene_%288%29.png/revision/latest/zoom-crop/width/240/height/240?cb=20120105073208",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/8/89/S4_Michael_%2802%29.jpg/revision/latest?cb=20130502032640",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/6/60/S4_Lindsay_%2801%29.jpg/revision/latest?cb=20130502032536",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image":"https://vignette.wikia.nocookie.net/arresteddevelopment/images/2/2e/S4_Maeby_%2802%29.jpg/revision/latest?cb=20130502032639",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/7/7d/S4_GOB_%2801%29.jpg/revision/latest?cb=20130502032535",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://vignette.wikia.nocookie.net/arrested-development/images/7/77/S4_George_Michael.jpg/revision/latest?cb=20170113022331&path-prefix=pt-br",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/a/a7/S4_George_%2802%29.jpg/revision/latest?cb=20130502032534",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/8/88/S4_Lucille_%2801%29.jpg/revision/latest?cb=20130502032638",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/6/60/Season_4_Poster_-_Tobias_F%C3%BCnke_01.jpg/revision/latest?cb=20130521213519",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://vignette.wikia.nocookie.net/arresteddevelopment/images/e/e3/Season_1_Character_Promos_-_Buster_Bluth_02.jpeg/revision/latest/scale-to-width-down/300?cb=20120429230331",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://uproxx.files.wordpress.com/2015/07/ice-arrested-development.png?w=650",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://uproxx.files.wordpress.com/2014/10/barry-zuckerkorn.jpg?quality=95&w=650",
+        "clicked": false
+    }
+]
